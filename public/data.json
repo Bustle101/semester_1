@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Звеняшка",
+      "price": 750,
+      "description": "Звеняшки – это гордые небесные создания, которые обитают в Серебряных горах. (1 rank)",
+      "image": "src/styles/Bellswayer_Base_Tier_1.png",
+      "categories": [
+        "ordinary",
+        "1 rank"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": "2",
+      "title": "Звеняшка PRO",
+      "price": 1232,
+      "description": "Звеняшки – это гордые небесные создания, которые обитают в Серебряных горах. (2 rank)",
+      "image": "src/styles/Bellswayer_Base_Tier_2.png",
+      "category": [
+        "ordinary",
+        "2 rank"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": "3",
+      "title": "Звеняшка MAX",
+      "price": 1714,
+      "description": "Звеняшки – это гордые небесные создания, которые обитают в Серебряных горах. (3 rank)",
+      "image": "src/styles/Bellswayer_Base_Tier_3.png",
+      "category": [
+        "ordinary",
+        "3 rank"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": "4",
+      "title": "Звеняшка зимней радости",
+      "price": 925,
+      "description": "Звеняшки – это гордые небесные создания, которые обитают в Серебряных горах. (1 rank)",
+      "image": "src/styles/Bellswayer_Yuletide_Tier_1.png",
+      "category": [
+        "epic",
+        "1 rank"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": "5",
+      "title": "Звеняшка зимней радости PRO",
+      "price": 1556,
+      "description": "Звеняшки – это гордые небесные создания, которые обитают в Серебряных горах. (2 rank)",
+      "image": "src/styles/Bellswayer_Yuletide_Tier_2.png",
+      "category": [
+        "epic",
+        "2 rank"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": "6",
+      "title": "Звеняшка зимней радости MAX",
+      "price": 2162,
+      "description": "Звеняшки – это гордые небесные создания, которые обитают в Серебряных горах. (3 rank)",
+      "image": "src/styles/Bellswayer_Yuletide_Tier_3.png",
+      "category": [
+        "epic",
+        "3 rank"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": "7",
+      "title": "Звеняшка Кровавой Луны (1 rank)",
+      "price": 2500,
+      "description": "Звеняшки – это гордые небесные создания, которые обитают в Серебряных горах. (1 rank)",
+      "image": "src/styles/Bellswayer_Blood_Moon_Tier_1.png",
+      "category": [
+        "legendary",
+        "1 rank"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": "8",
+      "title": "Звеняшка Кровавой Луны (2 rank) PRO",
+      "price": 3225,
+      "description": "Звеняшки – это гордые небесные создания, которые обитают в Серебряных горах. (2 rank)",
+      "image": "src/styles/Bellswayer_Blood_Moon_Tier_2.png",
+      "category": [
+        "legendary",
+        "2 rank"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": "9",
+      "title": "Звеняшка Кровавой Луны (3 rank) MAX",
+      "price": 3950,
+      "description": "Звеняшки – это гордые небесные создания, которые обитают в Серебряных горах. (3 rank)",
+      "image": "src/styles/Bellswayer_Blood_Moon_Tier_3.png",
+      "category": [
+        "legendary",
+        "3 rank"
+      ],
+      "rating": 4.9
+    },
+    {
+      "title": "string",
+      "price": 0,
+      "description": "string",
+      "image": "string",
+      "categories": [
+        "string"
+      ],
+      "id": "1742924401315"
+    }
+  ]
+}
