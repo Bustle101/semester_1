@@ -10,7 +10,7 @@
 
 ```bash
 git clone https://github.com/Bustle101/semester_1.git
-cd store
+cd my-shop
 ```
 
 ### Предварительные требования
