@@ -21,6 +21,14 @@ cd semester_1
 
 Установите зависимости проекта:
 ```bash
+npm install react@18 react-dom@18
+npm install
+```
+
+Если будет ошибка, то
+```bash
+npm install --legacy-peer-deps
+npm install react@18 react-dom@18
 npm install
 ```
 
